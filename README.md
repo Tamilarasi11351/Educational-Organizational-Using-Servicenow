@@ -3,7 +3,7 @@ A ServiceNow project developed to manage educational organization activities, in
 
 TEAM MEMBERS:
 
-  1.Tmilarasi N
+  1.Tamilarasi N
 
   2.Sivadharshini S
 
